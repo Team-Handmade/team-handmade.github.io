@@ -23,3 +23,9 @@ members :
 <img src="https://github.com/user-attachments/assets/fb58b731-3708-47b7-b748-08a348bb1b05" width="653" height="1000"/>
 
 ---
+
+## 트레일러
+
+[![Video Label](http://img.youtube.com/vi/1OXSz421ij4/0.jpg)](https://youtu.be/1OXSz421ij4?t=0s)
+
+---
