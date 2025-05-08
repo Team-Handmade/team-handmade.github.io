@@ -21,7 +21,10 @@ members :
 
 ## 포스터  
   
-<img src="https://github.com/user-attachments/assets/fb58b731-3708-47b7-b748-08a348bb1b05" style="max-width:50%; height:auto;" />
+<img src="https://github.com/user-attachments/assets/fb58b731-3708-47b7-b748-08a348bb1b05" style="max-width:50%; height:auto;" />  
+<img src="https://github.com/user-attachments/assets/fb58b731-3708-47b7-b748-08a348bb1b05"
+     style="width: 50%; max-width: 100%; min-width: 600px; height: auto;" />
+
 
   
 ---  
